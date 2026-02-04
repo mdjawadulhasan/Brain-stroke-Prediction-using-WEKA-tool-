@@ -1,4 +1,4 @@
-# Brain Stroke Classification
+# Brain Stroke Classification 
 
 ## Project Overview
 This project develops machine learning models to predict the likelihood of brain stroke based on various health and demographic attributes. Stroke occurs when there is insufficient blood supply to the brain, which can be ischemic (lack of blood flow) or hemorrhagic (bleeding). By analyzing factors such as blood pressure, hypertension, heart disease, and other risk factors, our models aim to provide early prediction that could potentially help in preventive care.
